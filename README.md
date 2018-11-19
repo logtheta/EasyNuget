@@ -1,6 +1,6 @@
 # EasyNuget
 
-EasyNuget is a simple application to improve development workflows involving nuget packages. The use case we are trying to optimize is:
+EasyNuget is a simple .Net application to improve development workflows involving nuget packages. The use case we are trying to optimize is:
 
 - You are developing a .Net (full or core) application referencing multiple nuget packages and you need to apply some changes in the referenced packages
 - You have the referenced package source code locally to build after making some code changes
