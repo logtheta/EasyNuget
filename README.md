@@ -25,7 +25,7 @@ What EasyNuget does is to provide a User Interface to manage the nuget libraries
 - Build just the selected packages
 - Build command line is external, you can change it without recompile the code
 - **TODO**
-    -  Respect pacakges inter-depencences
+    -  Build considering package inter-depencences
     -  Allow user to order the build sequence
     -  Allow user to customize build command line
 
