@@ -7,7 +7,7 @@ EasyNuget is a simple application to improve development workflows involving nug
 - You want to debug the changes that you just made in the referenced package
 - You don't want to wait your build system to buid and deploy a new package version beacuse it takes a while and you have many packages to change
 
-What EasyNuget does is to provide an interface to add the libraries that you need to change and automate the build as per your need
+What EasyNuget does is to provide a User Interface to manage the nuget libraries that you need to change and automate the build as per your needs.
 
 ## Development Technology
 
